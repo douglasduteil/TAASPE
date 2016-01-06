@@ -79,6 +79,8 @@ app.delete(‘/todos/:id, function (req, res, err) {
 ```
 
 
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+
 [travis-url]: http://travis-ci.org/onedoes/TAASPE
 [travis-image]: http://travis-ci.org/onedoes/TAASPE.svg?branch=master
 
